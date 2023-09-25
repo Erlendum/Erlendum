@@ -23,5 +23,5 @@ I’m Glotov Ilya, backend developer and BMSTU student.
 ### 📫 How to reach me
 - [Telegram](https://t.me/erlendums)
 
-### My life
+### ❤️ My life
 ![](https://github.com/Erlendum/Erlendum/blob/main/sticker.gif)
