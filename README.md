@@ -1,16 +1,27 @@
 ### Hi there 👋
+I’m Glotov Ilya, backend developer and BMSTU student.
 
-<!--
-**Erlendum/Erlendum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I've worked with
+- Golang, Python, C/C++, Prolog, Lisp
+- Vite 
+- PostgreSQL, Redis, MongoDB
+- Kafka
+- Gitlab CI/CD
+- Docker
 
-Here are some ideas to get you started:
+### 👀 I’m interested in
+- Distributed processing systems
+- NLP
+- Highload
+  
+### 🌱 I’m currently learning
+- Computer networks
+- Operating systems
+- Information Security
+- Swimming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- [Telegram](https://t.me/erlendums)
+
+### My life
+![](https://github.com/Erlendum/Erlendum/blob/main/sticker.gif)
