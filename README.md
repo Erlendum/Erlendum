@@ -4,9 +4,9 @@ I’m Glotov Ilya, backend developer and BMSTU student.
 ### 💻 I've worked with
 - Golang, Python, C/C++, Prolog, Lisp
 - Vite 
-- PostgreSQL, Redis, MongoDB
-- Kafka
-- Gitlab CI/CD
+- PostgreSQL, Redis, MongoDB, ClickHouse
+- Kafka, RabbitMQ
+- Gitlab CI/CD, GitHub Actions
 - Docker
 
 ### 👀 I’m interested in
